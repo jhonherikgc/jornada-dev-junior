@@ -1,4 +1,4 @@
-# 🚀 Jornada Dev Júnior
+# 🚀 Jornada Dev Junior
 
 Este repositório foi criado com o intuito de documentar minhas habilidades, desafios, e aprimorar minhas documentações de projetos e evoluções. Aqui centralizo todos os meus estudos, exercícios e projetos práticos. Este espaço serve como prova da minha **consistência**, **foco** e **curva de aprendizado** técnica.
 
