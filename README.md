@@ -35,7 +35,7 @@ A cada push, busco refinar não apenas o código, mas a minha capacidade de reso
 ## 📫 Contato & Conexão
 Sinta-se à vontade para explorar meus códigos e, se tiver alguma sugestão, vamos conversar!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonherikgc)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonherikgc)
 
 ---
