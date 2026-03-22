@@ -16,7 +16,7 @@ Atualmente, dedico meu tempo ao aprimoramento do ecossistema JavaScript, focando
 | Categoria | Descrição | Status |
 | :--- | :--- | :--- |
 | **[Logica-Prog](./logica)** | Algoritmos, estruturas de dados e desafios. | 🏗️ Em construção |
-| **[Frontend](./frontend)** | Interfaces modernas com React e TypeScript. | 🏗️ Em construção |
+| **[Frontend](./frontend)** | Interfaces modernas com React e TypeScript. | 🟢 Ativo |
 | **[Backend](./backend)** | APIs RESTful com Node.js e Express. | 🏗️ Em construção |
 | **[Desafios](./desafios)** | Soluções de LeetCode e HackerRank. | 🏗️ Em construção |
 
