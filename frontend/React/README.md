@@ -1,6 +1,6 @@
 ## To-Do List Simples
 
-Projeto desenvolvido de forma autonoma para pratica de estudos
+Projeto desenvolvido de forma autonoma para pratica de estudos.
 
 ## 🛠️ Stacks utilizadas
 
