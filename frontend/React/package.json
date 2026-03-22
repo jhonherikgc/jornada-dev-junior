@@ -1,0 +1,8 @@
+{
+  "name": "react-estudos",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix lista_tarefas start",
+    "build": "npm --prefix lista_tarefas run build"
+  }
+}
