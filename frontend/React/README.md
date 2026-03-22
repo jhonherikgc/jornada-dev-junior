@@ -7,7 +7,7 @@ Projeto desenvolvido de forma autonoma para pratica de estudos.
 [![My Skills](https://skillicons.dev/icons?i=,react,css)](https://skillicons.dev)
 
 
-## 💻 Teste agora mesmo em sua máquina:
+## Para testar este projeto:
 
 Para testar este projeto, basta seguir este tutorial via terminal abaixo:
 
