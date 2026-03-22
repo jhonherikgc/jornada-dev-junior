@@ -6,7 +6,6 @@ Projeto desenvolvido de forma autonoma para pratica de estudos
 
 [![My Skills](https://skillicons.dev/icons?i=,react,css)](https://skillicons.dev)
 
---
 
 ## Apreciação de estudos
 
