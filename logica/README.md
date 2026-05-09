@@ -1,4 +1,6 @@
 # 🧠 Lógica de Programação & Algoritmos
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python)](https://skillicons.dev)
+
 
 Este diretório contém a base da minha jornada. Antes de dominar frameworks, foco em dominar a resolução de problemas.
 
